@@ -1,0 +1,16 @@
+C:\Users\Evangelina\Desktop\pr\pr\bin\Debug\net8.0-windows\pr.exe
+C:\Users\Evangelina\Desktop\pr\pr\bin\Debug\net8.0-windows\pr.deps.json
+C:\Users\Evangelina\Desktop\pr\pr\bin\Debug\net8.0-windows\pr.runtimeconfig.json
+C:\Users\Evangelina\Desktop\pr\pr\bin\Debug\net8.0-windows\pr.dll
+C:\Users\Evangelina\Desktop\pr\pr\bin\Debug\net8.0-windows\pr.pdb
+C:\Users\Evangelina\Desktop\pr\pr\obj\Debug\net8.0-windows\pr.Form1.resources
+C:\Users\Evangelina\Desktop\pr\pr\obj\Debug\net8.0-windows\pr.csproj.GenerateResource.cache
+C:\Users\Evangelina\Desktop\pr\pr\obj\Debug\net8.0-windows\pr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evangelina\Desktop\pr\pr\obj\Debug\net8.0-windows\pr.AssemblyInfoInputs.cache
+C:\Users\Evangelina\Desktop\pr\pr\obj\Debug\net8.0-windows\pr.AssemblyInfo.cs
+C:\Users\Evangelina\Desktop\pr\pr\obj\Debug\net8.0-windows\pr.csproj.CoreCompileInputs.cache
+C:\Users\Evangelina\Desktop\pr\pr\obj\Debug\net8.0-windows\pr.dll
+C:\Users\Evangelina\Desktop\pr\pr\obj\Debug\net8.0-windows\refint\pr.dll
+C:\Users\Evangelina\Desktop\pr\pr\obj\Debug\net8.0-windows\pr.pdb
+C:\Users\Evangelina\Desktop\pr\pr\obj\Debug\net8.0-windows\pr.genruntimeconfig.cache
+C:\Users\Evangelina\Desktop\pr\pr\obj\Debug\net8.0-windows\ref\pr.dll
